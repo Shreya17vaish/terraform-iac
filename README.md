@@ -17,10 +17,9 @@ You must have a [Google Cloud Platform (GCP)](http://cloud.google.com/) account.
 The code consists of Terraform examples using HashiCorp Configuration Language (HCL) on Google Cloud Platform (GCP).
 
 All the code is in the [code](/code) folder.
-
 For instructions on running the code, please consult the README in each folder.
 
-This is the list of examples:
+This is the list of examples
 
 * [01-hello-world](code/01-hello-world) - Terraform "Hello, World": Example of how to deploy a single server on Google Cloud Platform (GCP) using the shortest script.
 * [02-one-server](code/02-one-server) - Terraform One Server: Example of how deploy a single server on Google Cloud Platform (GCP).
